@@ -1,6 +1,7 @@
-<p align="center">
-
-# Hi there 🚲🍃🌆
+<div align="center">
   
-<img src="https://github.com/TrainingOe/Gifs/blob/main/Storage/Oe.gif" width= "410"> <img src="https://github.com/TrainingOe/Gifs/blob/main/Storage/oekintaro.gif" width= "450">
-</p>
+## Hi there 🚲🍃🌆
+
+</div>
+  
+<img src="https://github.com/TrainingOe/Gifs/blob/main/Storage/Oe.gif" width= "320"> <img src="https://github.com/TrainingOe/Gifs/blob/main/Storage/oekintaro.gif" width= "350">
