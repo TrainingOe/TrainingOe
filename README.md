@@ -4,5 +4,5 @@
 
 </div>
 <p align="center">
-<img src="https://github.com/TrainingOe/Gifs/blob/main/Storage/Oe.gif" width= "320"> <img src="https://github.com/TrainingOe/Gifs/blob/main/Storage/oekintaro.gif" width= "350">
+<img src="https://github.com/TrainingOe/Gifs/blob/main/Storage/Oe.gif" width= "360"> <img src="https://github.com/TrainingOe/Gifs/blob/main/Storage/oekintaro.gif" width= "390">
 </p>
