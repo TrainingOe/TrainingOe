@@ -1,2 +1,6 @@
-## Hi there 🚲🌆
-![61206286499ea80200fa76eaf2829d00](https://github.com/TrainingOe/TrainingOe/assets/167030006/f29c2b59-47b3-41f7-bd08-5ce9353dca16)
+<p align="center">
+
+# Hi there 🚲🍃🌆
+  
+<img src="https://github.com/TrainingOe/Gifs/blob/main/Storage/Oe.gif" width= "410"> <img src="https://github.com/TrainingOe/Gifs/blob/main/Storage/oekintaro.gif" width= "450">
+</p>
